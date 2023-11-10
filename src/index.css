@@ -229,3 +229,8 @@ progress[value]::-webkit-progress-value {
     font-size: 1.5rem;
   }
 }
+@media (max-width: 265px) {
+  .Finish-screent .result {
+    font-size: 1.2rem;
+  }
+}
