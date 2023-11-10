@@ -217,9 +217,9 @@ progress[value]::-webkit-progress-value {
     font-size: 2rem;
   }
 }
-@media (max-width: 356px) {
+@media (max-width: 370px) {
   .questions-section h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
   .question-list-Container h2 {
     font-size: 1.2rem;
@@ -230,7 +230,11 @@ progress[value]::-webkit-progress-value {
   .Finish-screent .result {
     font-size: 1.5rem;
   }
+  .header-section h1 {
+    font-size: 1.6rem;
+  }
 }
+
 @media (max-width: 265px) {
   .Finish-screent .result {
     font-size: 1.2rem;
