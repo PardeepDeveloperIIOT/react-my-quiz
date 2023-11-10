@@ -6,7 +6,7 @@ function FinishScreen({ TotalPoints, points, dispatch }) {
     <div className="Finish main">
       <div className="Finish-screent">
         <h1 style={{ color: "yellow" }}>🎀 Result 🎊</h1>
-        <h1>
+        <h1 className="result">
           Your Got <span style={{ color: "lightgreen" }}>{points}</span> /{" "}
           <span style={{ color: "red" }}>{TotalPoints}</span> Points
         </h1>

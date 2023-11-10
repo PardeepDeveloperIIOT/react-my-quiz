@@ -225,4 +225,7 @@ progress[value]::-webkit-progress-value {
   .mylistbtn {
     font-size: 1rem !important;
   }
+  .Finish-screent .result {
+    font-size: 1.5rem;
+  }
 }
